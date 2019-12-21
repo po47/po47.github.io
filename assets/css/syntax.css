@@ -1,3 +1,9 @@
 body {
     padding-top: 5rem;
 }
+.left {
+@include float-left;
+}
+.right{
+@include float-right;
+}
